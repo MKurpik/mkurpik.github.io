@@ -61,7 +61,6 @@ a{
 table, tr, td {
     border: 1px solid black;
     border-color: #666666;
-    shadow: 0.8px 0.8px grey;
 }
 table {
     box-shadow: 0.8px 0.8px grey;
